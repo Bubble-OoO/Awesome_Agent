@@ -4,4 +4,4 @@
 🎉 Welcome！这里将会介绍更多关于LLM Agent的相关内容。🎃
 
 ## 目录
-1. [Nano-Banana 提示词](https://github.com/Bubble-OoO/Awesome_Agent/tree/main/Nano-banana-prompt)
+1. 🍌 [Nano-Banana 提示词](https://github.com/Bubble-OoO/Awesome_Agent/tree/main/Nano-banana-prompt)
