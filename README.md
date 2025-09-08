@@ -6,7 +6,7 @@
 
 | 目录   | 描述 & 链接                         | 状态     |
 |------------|-------------------------------|----------|
-|                   |  [LLM 本地部署](https://github.com/Bubble-OoO/awesome-agent/tree/main/vllm-llm-deploy)  |  ✅ 已完成 |
+| 🏳️‍🌈 vllm-llm-deploy  |  [LLM 本地部署](https://github.com/Bubble-OoO/awesome-agent/tree/main/vllm-llm-deploy)  |  ✅ 已完成 |
 | 🍌 Nano-banana-prompt   | [Nano-Banana 提示词](https://github.com/Bubble-OoO/Awesome_Agent/tree/main/Nano-banana-prompt)          | ✅ 已完成 |
 | 👾 Claude-code-kimi    | [Claude Code + Kimi Subagents 多智能体设计]()     | ⚠️ 进行中 |
 | 🙉 LiteLLM | [LiteLLM 使用教程]()    | ❌ 未开始 |
